@@ -3,11 +3,201 @@
 Este arquivo contém as palavras-chave que usamos para otimizar nosso glossário de programação para iniciantes e ajudar na sua descoberta nos motores de busca.
 
 ## Palavras-chave principais:
-- **programação para iniciantes**
-- **glossário de programação**
-- **conceitos de programação**
-- **termos básicos de codificação**
-- **aprendizado autodidata em programação**
-- **desenvolvedor iniciante**
+- **O que é um array?**
+- **Como funciona uma função?**
+- **Definição de classe em programação**
+- **O que é um objeto em programação?**
+- **O que é um algoritmo?**
+- **O que é um banco de dados?**
+- **O que é um framework?**
+- **Como usar Git e GitHub**
+- **O que é uma linguagem de programação?**
+- **O que é um compilador?**
+- **O que é uma IDE (Ambiente de Desenvolvimento Integrado)?**
+- **O que é depuração?**
+- **O que é uma API?**
+- **O que é uma biblioteca em programação?**
+- **O que é uma string?**
+- **O que é um número inteiro?**
+- **O que é um número flutuante?**
+- **O que é uma condição if/else?**
+- **O que é um loop for?**
+- **O que é um loop while?**
+- **O que é um operador lógico?**
+- **O que é um operador aritmético?**
+- **O que é uma variável global?**
+- **O que é uma variável local?**
+- **O que é herança em programação?**
+- **O que é polimorfismo?**
+- **O que é encapsulamento?**
+- **O que é um construtor de classe?**
+- **O que é um destruidor de classe?**
+- **O que é um ponteiro?**
+- **O que é recursão em programação?**
+- **O que é um banco de dados SQL?**
+- **O que é um banco de dados NoSQL?**
+- **O que é SQL?**
+- **O que é uma chave primária?**
+- **O que é uma chave estrangeira?**
+- **O que é uma tabela em banco de dados?**
+- **O que é uma query SQL?**
+- **O que é JSON?**
+- **O que é XML?**
+- **O que é HTML?**
+- **O que é CSS?**
+- **O que é JavaScript?**
+- **O que é React?**
+- **O que é Vue.js?**
+- **O que é Node.js?**
+- **O que é Python?**
+- **O que é PHP?**
+- **O que é C++?**
+- **O que é Ruby?**
+- **O que é Kotlin?**
+- **O que é Swift?**
+- **O que é Java?**
+- **O que é TypeScript?**
+- **O que é Bootstrap?**
+- **O que é Docker?**
+- **O que é Cloud Computing?**
+- **O que é uma rede de computadores?**
+- **O que é um servidor?**
+- **O que é um cliente em programação?**
+- **O que é front-end?**
+- **O que é back-end?**
+- **O que é full-stack?**
+- **O que é um framework front-end?**
+- **O que é um framework back-end?**
+- **O que é uma REST API?**
+- **O que é uma API RESTful?**
+- **O que é um servidor web?**
+- **O que é HTTP?**
+- **O que é HTTPS?**
+- **O que é um protocolo de rede?**
+- **O que é o modelo OSI?**
+- **O que é segurança em programação?**
+- **O que é criptografia?**
+- **O que é hashing?**
+- **O que é autenticação?**
+- **O que é autorização?**
+- **O que é um bug em programação?**
+- **O que é teste unitário?**
+- **O que é TDD (Test Driven Development)?**
+- **O que é GitHub?**
+- **O que é Git?**
+- **O que é um pull request?**
+- **O que é um commit?**
+- **O que é um branch no Git?**
+- **O que é o versionamento de código?**
+- **O que é CI/CD?**
+- **O que é Scrum?**
+- **O que é metodologia ágil?**
+- **O que é um algoritmo de ordenação?**
+- **O que é Big-O notation?**
+- **O que é programação orientada a objetos?**
+- **O que é programação funcional?**
+- **O que é programação imperativa?**
+- **O que é programação declarativa?**
+- **O que é programação**
+- **Programação para iniciantes**
+- **Como aprender a programar**
+- **O que é uma variável**
+- **Definição de loop**
+- **O que é um array**
+- **Como funciona uma função**
+- **Definição de classe em programação**
+- **O que é um objeto em programação**
+- **O que é um algoritmo**
+- **O que é um banco de dados**
+- **O que é um framework**
+- **Como usar Git e GitHub**
+- **O que é uma linguagem de programação**
+- **O que é um compilador**
+- **O que é uma IDE (Ambiente de Desenvolvimento Integrado)**
+- **O que é depuração**
+- **O que é uma API**
+- **O que é uma biblioteca em programação**
+- **O que é uma string**
+- **O que é um número inteiro**
+- **O que é um número flutuante**
+- **O que é uma condição if/else**
+- **O que é um loop for**
+- **O que é um loop while**
+- **O que é um operador lógico**
+- **O que é um operador aritmético**
+- **O que é uma variável global**
+- **O que é uma variável local**
+- **O que é herança em programação**
+- **O que é polimorfismo**
+- **O que é encapsulamento**
+- **O que é um construtor de classe**
+- **O que é um destruidor de classe**
+- **O que é um ponteiro**
+- **O que é recursão em programação**
+- **O que é um banco de dados SQL**
+- **O que é um banco de dados NoSQL**
+- **O que é SQL**
+- **O que é uma chave primária**
+- **O que é uma chave estrangeira**
+- **O que é uma tabela em banco de dados**
+- **O que é uma query SQL**
+- **O que é JSON**
+- **O que é XML**
+- **O que é HTML**
+- **O que é CSS**
+- **O que é JavaScript**
+- **O que é React**
+- **O que é Vue.js**
+- **O que é Node.js**
+- **O que é Python**
+- **O que é PHP**
+- **O que é C++**
+- **O que é Ruby**
+- **O que é Kotlin**
+- **O que é Swift**
+- **O que é Java**
+- **O que é TypeScript**
+- **O que é Bootstrap**
+- **O que é Docker**
+- **O que é Cloud Computing**
+- **O que é uma rede de computadores**
+- **O que é um servidor**
+- **O que é um cliente em programação**
+- **O que é front-end**
+- **O que é back-end**
+- **O que é full-stack**
+- **O que é um framework front-end**
+- **O que é um framework back-end**
+- **O que é uma REST API**
+- **O que é uma API RESTful**
+- **O que é um servidor web**
+- **O que é HTTP**
+- **O que é HTTPS**
+- **O que é um protocolo de rede**
+- **O que é o modelo OSI**
+- **O que é segurança em programação**
+- **O que é criptografia**
+- **O que é hashing**
+- **O que é autenticação**
+- **O que é autorização**
+- **O que é um bug em programação**
+- **O que é teste unitário**
+- **O que é TDD (Test Driven Development)**
+- **O que é GitHub**
+- **O que é Git**
+- **O que é um pull request**
+- **O que é um commit**
+- **O que é um branch no Git**
+- **O que é o versionamento de código**
+- **O que é CI/CD**
+- **O que é Scrum**
+- **O que é metodologia ágil**
+- **O que é um algoritmo de ordenação**
+- **O que é Big-O notation**
+- **O que é programação orientada a objetos**
+- **O que é programação funcional**
+- **O que é programação imperativa**
+- **O que é programação declarativa**
+
 
 Essas palavras-chave estão presentes no conteúdo do repositório e foram escolhidas para atingir um público que está começando no mundo da programação.
